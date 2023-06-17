@@ -3,10 +3,11 @@ Using LinearRegression and Train_test_split in the Cardano (ADA) dataset to pred
 
 #
 
-First, we download the desired dataset from the Yahoo Finance
-Then we check the parameters of the created dataframe and after that, we clean the data
+First, we download the desired dataset from the Yahoo Finance,
+Then we check the parameters of the created dataframe and after that, we clean the data.
+
 We divide the data into two parts, train & test, and give it to the train_test_split algorithm
-Then, using the obtained values, we use the Linear Regression algorithm
+Then, with using the obtained values, use the Linear Regression algorithm
 
 ![Past Predicted & Actual Price](https://github.com/Hpouralireza/crypto_LinearRegression/assets/47522202/16dd84fb-0b11-4dc2-8969-d7e76c9fe50e)
 
