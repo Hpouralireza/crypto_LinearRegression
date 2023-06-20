@@ -1,18 +1,19 @@
 # crypto_LinearRegression
-Using LinearRegression and Train_test_split in the Cardano (ADA) dataset to predict past and future prices
+Using LinearRegression and Train_test_split in the Bitcoin (BTC) dataset to predict past and future prices
 
 #
 
-First, we download the desired dataset from the Yahoo Finance,
+First, we download the desired dataset from the Yahoo Finance, Kaggle or etc,
 Then we check the parameters of the created dataframe and after that, we clean the data.
 
 We divide the data into two parts, train & test, and give it to the train_test_split algorithm
 Then, with using the obtained values, use the Linear Regression algorithm
 
-![Past Predicted & Actual Price](https://github.com/Hpouralireza/crypto_LinearRegression/assets/47522202/16dd84fb-0b11-4dc2-8969-d7e76c9fe50e)
+![Past Predicted & Actual Price](https://github.com/Hpouralireza/crypto_LinearRegression/assets/47522202/5e30bfbd-e032-4b8c-99b0-1744ad207baa)
 
 #
 
 Then we will shift 30 days forward
 
-![Future Predicted Price](https://github.com/Hpouralireza/crypto_LinearRegression/assets/47522202/4249dd72-22e1-4c3f-bfac-62952b9a1923)
+![Future Predicted Price](https://github.com/Hpouralireza/crypto_LinearRegression/assets/47522202/398a223c-1a1d-4a08-bdee-c1db7d95313b)
+
