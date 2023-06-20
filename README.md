@@ -9,7 +9,7 @@ Then we check the parameters of the created dataframe and after that, we clean t
 We divide the data into two parts, train & test, and give it to the train_test_split algorithm
 Then, with using the obtained values, use the Linear Regression algorithm
 
-![Past Predicted & Actual Price](https://github.com/Hpouralireza/crypto_LinearRegression/assets/47522202/5e30bfbd-e032-4b8c-99b0-1744ad207baa)
+![Past Predicted & Actual Price](https://github.com/Hpouralireza/crypto_LinearRegression/assets/47522202/bbc4ca25-2e00-485b-9db1-c3ced70af1d8)
 
 #
 
